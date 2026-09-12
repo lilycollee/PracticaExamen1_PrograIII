@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data>
+    <users>
+        <user>
+            <id>USR-1</id>
+            <name>Sam Altman</name>
+            <email>samaltman@gpt.com</email>
+        </user>
+        <user>
+            <id>USR-2</id>
+            <name>Greg Brockman</name>
+            <email>greg@gpt.com</email>
+        </user>
+        <user>
+            <id>USR-3</id>
+            <name>Ilya Sutskever</name>
+            <email>ilya@gpt.com</email>
+        </user>
+        <user>
+            <id>USR-4</id>
+            <name>Andrej Karpathy</name>
+            <email>karpathy@tesla.com</email>
+        </user>
+        <user>
+            <id>USR-5</id>
+            <name>Sebastián González</name>
+            <email>sbsgonzalez21@gmail.com</email>
+        </user>
+    </users>
+</data>
